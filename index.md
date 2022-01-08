@@ -1,4 +1,5 @@
-## Yang Rong
+## 杨荣 Yang Rong
+
 
 ## 兴趣领域 Interests
 AI, Robotics, Neuroscience
